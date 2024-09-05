@@ -1,0 +1,19 @@
+{
+  "MANAGEMENT_SUBSCRIPTION_ID": "0d754f66-65b4-4f64-97f5-221f0174ad48",
+  "PREFIX": "gbrul313",
+  "NETWORK_TYPE": "none",
+  "MANAGEMENT_GROUP_ID": "gbrul313",
+  "MANAGEMENT_RESOURCE_GROUP": "rg-gbrul313-management",
+  "AVAILABILITY_ZONES": [
+    "1",
+    "2",
+    "3"
+  ],
+  "LOCATION": "canadacentral",
+  "RELEASE_VERSION": "latest",
+  "ROOT_PARENT_MANAGEMENT_GROUP_ID": "",
+  "CONNECTIVITY_RESOURCE_GROUP": "rg-gbrul313-connectivity",
+  "IDENTITY_RESOURCE_GROUP": "rg-gbrul313-identity",
+  "CONNECTIVITY_SUBSCRIPTION_ID": "0d754f66-65b4-4f64-97f5-221f0174ad48",
+  "IDENTITY_SUBSCRIPTION_ID": "0d754f66-65b4-4f64-97f5-221f0174ad48"
+}
